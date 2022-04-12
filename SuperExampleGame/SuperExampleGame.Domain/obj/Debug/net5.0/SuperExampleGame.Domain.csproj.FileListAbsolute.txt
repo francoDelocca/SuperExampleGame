@@ -1,0 +1,16 @@
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\bin\Debug\net5.0\SuperExampleGame.Domain.exe
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\bin\Debug\net5.0\SuperExampleGame.Domain.deps.json
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\bin\Debug\net5.0\SuperExampleGame.Domain.runtimeconfig.json
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\bin\Debug\net5.0\SuperExampleGame.Domain.runtimeconfig.dev.json
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\bin\Debug\net5.0\SuperExampleGame.Domain.dll
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\bin\Debug\net5.0\ref\SuperExampleGame.Domain.dll
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\bin\Debug\net5.0\SuperExampleGame.Domain.pdb
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\obj\Debug\net5.0\SuperExampleGame.Domain.csproj.AssemblyReference.cache
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\obj\Debug\net5.0\SuperExampleGame.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\obj\Debug\net5.0\SuperExampleGame.Domain.AssemblyInfoInputs.cache
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\obj\Debug\net5.0\SuperExampleGame.Domain.AssemblyInfo.cs
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\obj\Debug\net5.0\SuperExampleGame.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\obj\Debug\net5.0\SuperExampleGame.Domain.dll
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\obj\Debug\net5.0\ref\SuperExampleGame.Domain.dll
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\obj\Debug\net5.0\SuperExampleGame.Domain.pdb
+C:\Users\Franco\source\repos\SuperExampleGame\SuperExampleGame.Domain\obj\Debug\net5.0\SuperExampleGame.Domain.genruntimeconfig.cache
